@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Владислав Кривокора](https://up.htmlacademy.ru/ecmascript/8/user/167185).
-* Наставник: `Неизвестно`.
+* Наставник: [Всеволод Артемьев](https://htmlacademy.ru/profile/id459331).
 
 ---
 
