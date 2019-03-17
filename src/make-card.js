@@ -1,4 +1,4 @@
-export default `<article class="film-card">
+export default () => `<article class="film-card">
 <h3 class="film-card__title">The Assassination Of Jessie James By The Coward Robert Ford</h3>
 <p class="film-card__rating">9.8</p>
 <p class="film-card__info">
